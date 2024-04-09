@@ -9,6 +9,10 @@
   --tertiary-color: #ff7b00;
 }
 
+body {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
 .links {
   text-decoration: none;
   color: var(--tertiary-color);
