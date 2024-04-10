@@ -54,6 +54,11 @@ p {
   text-align: justify;
   margin: 50px;
 }
+
+p::first-letter {
+  font-size: 4rem;
+  color: var(--tertiary-color);
+}
 h2 {
   color: var(--secondary-color);
 }
